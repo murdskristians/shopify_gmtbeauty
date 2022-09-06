@@ -1,10 +1,10 @@
 /* Customs CSS CODE */
 
 /* Making 3 homepage icons smaller and changing positions */
-.multicolumn-list__item.center .media--adapt, .multicolumn-list__item .media--adapt .multicolumn-card__image {
+.multicolumn-list__item.center .media--adapt, .multicolumn-list__item .media--adapt .multicolumn-card__image img{
     width: 45px;
     height: auto;
     position: absolute;
     top: 29px;
-  }
+}
   
