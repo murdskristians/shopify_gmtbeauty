@@ -1,4 +1,10 @@
-#shopify-section-footer {
-    border: 10px solid red;
+/* Customs CSS CODE */
+
+/* Making 3 homepage icons smaller and changing positions */
+#Slide-template--15800630116529__1662456008a67d3ff3-1 > div > div.multicolumn-card__image-wrapper.multicolumn-card__image-wrapper--third-width.multicolumn-card-spacing > div > img {
+    width: 45px;
+    height: auto;
+    position: absolute;
+    top: 29px;
   }
   
