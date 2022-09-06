@@ -746,4 +746,3 @@
   ]
 }
 {% endschema %}
-{% capture bss_hide_add_to_cart %}{% render 'bsscommerce-login-to-see-price-hide-add-to-cart', section_id: section.id, product: product %}{% endcapture %}{% unless bss_hide_add_to_cart contains "Liquid error" %}{{ bss_hide_add_to_cart }}{% endunless %}
