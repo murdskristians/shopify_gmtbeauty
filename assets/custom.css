@@ -1,7 +1,7 @@
 /* Customs CSS CODE */
 
 /* Making 3 homepage icons smaller and changing positions */
-#Slide-template--15800630116529__1662456008a67d3ff3-1 > div > div.multicolumn-card__image-wrapper.multicolumn-card__image-wrapper--third-width.multicolumn-card-spacing > div > img {
+.multicolumn-list__item.center .media--adapt, .multicolumn-list__item .media--adapt .multicolumn-card__image {
     width: 45px;
     height: auto;
     position: absolute;
