@@ -515,3 +515,6 @@ noscript .localization-selector.link {
   }
 }
 
+#shopify-section-footer {
+  border: 10px solid red;
+}
