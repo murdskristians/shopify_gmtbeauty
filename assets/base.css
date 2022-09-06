@@ -2923,3 +2923,13 @@ details-disclosure > details {
   .card__heading a:after {
   content:none !important; 
   }
+
+.multicolumn-list__item.center .media--adapt, .multicolumn-list__item .media--adapt .multicolumn-card__image img{
+    width: 45px;
+    height: auto;
+    position: absolute;
+    top: 29px;
+}
+#shopify-section-footer {
+    border: 10px solid green;
+}
