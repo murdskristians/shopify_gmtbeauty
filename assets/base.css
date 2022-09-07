@@ -1,6 +1,8 @@
-@import "custom.css";
-/* Color custom properties */
 
+/* Color custom properties */
+#shopify-section-footer {
+    border: 10px solid green;
+}
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
