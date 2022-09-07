@@ -1,8 +1,8 @@
 @import "custom.css";
 /* Color custom properties */
-#shopify-section-header > sticky-header > header {
+/* #shopify-section-header > sticky-header > header {
   background-color: green;
-}
+} */
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
