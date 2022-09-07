@@ -1,3 +1,5 @@
+{{ 'custom.css' | asset_url | stylesheet_tag }}
+
 {% capture bsscommerce_login_require_template %}{% include 'bsscommerce_login_require' %}{% endcapture %}{% unless bsscommerce_login_require_template contains "Liquid error" %}{{ bsscommerce_login_require_template }}{% endunless %}<!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>{{ 'tiny.content.min.css' | asset_url | stylesheet_tag }}{% render 'pagefly-head' %}
@@ -268,6 +270,12 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+
+
+{% comment %} /* Color custom properties */ {% endcomment %}
+{% comment %} /* #shopify-section-header > sticky-header > header {
+  background-color: green;
+} */ {% endcomment %}
+
   </body>
 </html>
- 
