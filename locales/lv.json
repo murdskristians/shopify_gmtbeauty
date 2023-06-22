@@ -1,1 +1,611 @@
-{"sections":{"header":{"announcement":"Paziņojums","menu":"Navigācija","cart_count":{"one":"{{ count }} lieta","other":"{{ count }} lietas"}},"cart":{"title":"Jūsu grozs","caption":"Groza preces","remove_title":"Noņemt {{ title }}","subtotal":"Starpsumma","new_subtotal":"Jaunā starpsumma","note":"Pasūtījuma speciālās piezīmes","checkout":"Norēķini","empty":"Jūsu grozs ir tukšs","cart_error":"","cart_quantity_error_html":"","taxes_and_shipping_policy_at_checkout_html":"","taxes_included_but_shipping_at_checkout":"","taxes_included_and_shipping_policy_html":"","taxes_and_shipping_at_checkout":"","headings":{"product":"Produkts","price":"Cena","total":"Kopā","quantity":"Daudzums"},"update":"Atjaunot","login":{"title":"Jums ir konts?","paragraph_html":""}},"footer":{"payment":"Maksājuma metodes"},"featured_blog":{"view_all":"Skatīt visu","onboarding_title":"Bloga raksts","onboarding_content":""},"featured_collection":{"view_all":"Skatīt visu","view_all_label":""},"collection_list":{"view_all":"Skatīt visu"},"collection_template":{"empty":"Produkts nav atrasts","title":"Kolekcija","use_fewer_filters_html":""},"video":{"load_video":""},"slideshow":{"load_slide":"","previous_slideshow":"","next_slideshow":"","pause_slideshow":"","play_slideshow":"","carousel":"","slide":""},"page":{"title":"Lapas virsraksts"}},"general":{"password_page":{"login_form_heading":"","login_password_button":"","login_form_password_label":"Parole","login_form_password_placeholder":"Jūsu parole","login_form_error":"Nepareiza parole","login_form_submit":"Ienākt","admin_link_html":"","powered_by_shopify_html":" "},"social":{"alt_text":{"share_on_facebook":"","share_on_twitter":"","share_on_pinterest":""},"links":{"twitter":"","facebook":"","pinterest":"","instagram":"","tumblr":"","snapchat":"","youtube":"","vimeo":"","tiktok":""}},"continue_shopping":"Turpināt iepirkties","pagination":{"label":"","page":"Lapa {{ number }}","next":"Nākamā lapa","previous":"Iepriekšējā lapa"},"search":{"search":"Meklēt"},"cart":{"view":"Apskatīt grozu ({{ count }})","item_added":"Pievienots grozam"},"share":{"close":"","copy_to_clipboard":"","share_url":"Saite","success_message":""},"slider":{"of":"","next_slide":"","previous_slide":""}},"newsletter":{"label":"E-pasts","success":"Paldies, ka pierakstījāties!","button_label":"Pierakstīties"},"accessibility":{"skip_to_text":"","skip_to_product_info":"","close":"Aizvērt","unit_price_separator":"","vendor":"","error":"Kļūda","refresh_page":"","link_messages":{"new_window":"","external":""},"loading":"Ielādē...","total_reviews":"","star_reviews_info":"","collapsible_content_title":""},"blogs":{"article":{"blog":"Blogs","read_more_title":"Lasīt vairāk: {{ title }}","comments":{"one":"","other":""},"moderated":"","comment_form_title":"Atstāt komentāru","name":"Vārds","email":"E-pasts","message":"Komentārs","post":"Publicēt","back_to_blog":"Atpakaļ uz blogu","share":"Dalīties ar rakstu","success":"","success_moderated":""}},"onboarding":{"product_title":"","collection_title":""},"products":{"product":{"add_to_cart":"Pievienot grozam","description":"Apraksts","on_sale":"Atlaide!","product_variants":"Produkta variācijas","media":{"gallery_viewer":"","load_image":"","load_model":"","load_video":"","image_available":"","open_media":"","play_model":"","play_video":""},"quantity":{"label":"Daudzums","input_label":"","increase":"","decrease":""},"pickup_availability":{"view_store_info":"","check_other_stores":"","pick_up_available":"","pick_up_available_at_html":"","pick_up_unavailable_at_html":"","unavailable":"","refresh":""},"price":{"from_price_html":"No {{ price }}","regular_price":"Cena","sale_price":"Izpārdošanas cena","unit_price":"Vienības cena"},"share":"","sold_out":"Izpārdots","unavailable":"Nav pieejams","vendor":"","video_exit_message":"","view_full_details":"","xr_button":"","xr_button_label":"","include_taxes":" ","shipping_policy_html":"<a href=\"{{ link }}\">Piegāde<\/a> tiks aprēķināta norēķinu solī."},"modal":{"label":""},"facets":{"apply":"","clear":"Notīrīt","clear_all":"Notīrīt visu","from":"No","filter_and_sort":"Filtrēt un kārtot","filter_by_label":"Filtrēt:","filter_button":"Filtrs","filters_selected":{"one":"{{ count }} atlasīts","other":"{{ count }} atlasīts"},"max_price":"Augstākā cena ir {{ price }}","product_count":{"one":"{{ product_count }} no {{ count }} produktiem","other":"{{ product_count }} no {{ count }} produktiem"},"product_count_simple":{"one":"{{ count }} produkts","other":"{{ count }} produkti"},"reset":"Attiestatīt","sort_button":"Kārtot","sort_by_label":"Kārtot pēc:","to":"Līdz","clear_filter":"Noņemt filtru"}},"templates":{"404":{"title":"Lapas nav atrasta","subtext":"404"},"search":{"no_results":"","page":"Lapa","products":"Produkti","results_with_count":{"one":"{{ count }} rezultāts","other":"{{ count }} rezultāti"},"results_with_count_and_term":{"one":"","other":""},"title":"Meklēšanas rezultāti","search_for":"Meklēt \"{{ terms }}\""},"cart":{"cart":"Grozs"},"contact":{"form":{"name":"Vārds","email":"E-pasts","phone":"Telefona numurs","comment":"Komentārs","send":"Sūtīt","post_success":"","error_heading":""}}},"localization":{"country_label":"Valsts","language_label":"Valoda","update_language":"Atjaunot valodu","update_country":"Atjaunit Valsti\/Reģionu"},"customer":{"account":{"title":"Konts","details":"Konta detaļas","view_addresses":"Skatīt adresi","return":"Atgriezties uz konta detaļām"},"account_fallback":"Konts","activate_account":{"title":"Aktivizēt kontu","subtext":"","password":"Parole","password_confirm":"Apstiprināt paroli","submit":"Aktivizēt kontu","cancel":""},"addresses":{"title":"Adrese","default":"","add_new":"Pievienot jaunu adresi","edit_address":"Labot adresi","first_name":"Vārds","last_name":"Uzvārds","company":"Organizācija","address1":"Adrese 1","address2":"Adrese 2","city":"Pilsēta","country":"Valsts\/reģions","province":"Novads","zip":"Pasts indekss","phone":"Telefons","set_default":"","add":"","update":"","cancel":"","edit":"","delete":"","delete_confirm":""},"log_in":"Ienākt","log_out":"Iziet","login_page":{"cancel":"","create_account":"","email":"","forgot_password":"","guest_continue":"","guest_title":"","password":"","title":"","sign_in":"","submit":""},"order":{"title":"Pasūtījums {{ name }}","date_html":"Veikts {{ date }}","cancelled_html":"Pasūtījums atcelts {{ date }}","cancelled_reason":"Iemesls: {{ reason }} ","billing_address":"Norēķinu adrese","payment_status":"Maksājma statuss","shipping_address":"Piegādes adrese","fulfillment_status":"","discount":"Atlaide","shipping":"Piegāde","tax":"Nodoklis","product":"Prece","sku":"SKU","price":"Cena","quantity":"Daudzums","total":"Kopā","fulfilled_at_html":"","track_shipment":"Izsekot sūtījumu","tracking_url":"Izsekošanas saite","tracking_company":"Piegādātājs","tracking_number":"Izsekošanas numurs","subtotal":"Starpsumma","total_duties":""},"orders":{"title":"Pasūtījumu vēsture","order_number":"Pasūtījums","order_number_link":"Pasūtījuma numurs {{ number }}","date":"Datums","payment_status":"Maksājuma statuss","fulfillment_status":"","total":"Kopā","none":""},"recover_password":{"title":"","subtext":"","success":""},"register":{"title":"Izveidot kontu","first_name":"","last_name":"","email":"","password":"","submit":""},"reset_password":{"title":"","subtext":"","password":"","password_confirm":"","submit":""}},"gift_cards":{"issued":{"title":"","subtext":"","gift_card_code":"","shop_link":"","remaining_html":"","add_to_apple_wallet":"","qr_image_alt":"","copy_code":"","expired":"","copy_code_success":"","print_gift_card":""}},"shopify":{"checkout":{"general":{"page_title":"UZ APMAKSU","continue_button_label":"Turpināt","pay_now_button_label":"APMAKSĀT","error_page_title":"Kļūda","complete_purchase_button_label":"Pabeigt pasūtījumu","authenticate_purchase_button_label":"Autentificēt maksājumu","edit_link_label":"Labot","all_rights_reserved":"Visas tiesības paturētas {{ shop_name }}","cart":"Grozs","close_modal_label":"Aizvērt","close_notice_label":"Aizvērt","expand_notice_label":"Skatīt vairāk","continue_to_shipping_method":"Turpināt uz piegādi","continue_to_payment_method":"Turināt uz maksājumu","continue_to_review":"Pārskatīt pasūtījumu","back_to_cart":"Atgriezties uz grozu","back_to_contact_information":"Atgriezties pie infotmācijas","back_to_shipping_method":"Atgriezties pie piegādes","back_to_payment_method":"Atgriezties pie maksājuma","choose_shipping_method":"Izvēlēties piegādes metodi","choose_payment_method":"Izvēlēties maksājuma metodi","choose_billing_address":"Izvēlieties norēķinu adresi","print_policies_link_label":"Drukāt","contact_us_html":"Sazināties, lai saņemtu vairāk informācijas","autocomplete_title":"Ieteikumi"},"stock":{"continue_shopping_button_label":"Turpināt","price_column_header":"Cena"},"processing":{"continue_to_payment_gateway_button_label":"Turpināt uz maksājumu"},"thank_you":{"return_to_store_link_label":"Turpināt iepirkties","login":"Ielogoties","shipping_method_title":"Piegādes veids"},"contact":{"title":"Informācija","address_title":"Adrese","shipping_address_title":"Piegādes adrese","delivery_option_title":"Piegādes metode","contact_method_title":"Kontaktinformācija","email_label":"E-pasts","email_placeholder":"E-pasts","email_or_phone_label":"E-pasts vai telefona numurs","email_or_phone_placeholder":"E-pasts vai telefona numurs","stored_addresses_label":"Saglabātās adreses","new_address_label":"Izmantot jaunu adresi","first_name_label":"Vārds","optional_first_name_label":"Vārds (neobligāti)","last_name_label":"Uzvārds","company_label":"Organizācija","optional_company_label":"Organizācija (neobligāts)","address1_label":"Adrese","address2_label":"Dzīvoklis, māja u.c.","optional_address2_label":"Dzīvoklis, māja u.c. (neobligāts)","city_label":"Pilsēta","country_label":"Valsts","country_code":"Valsts\/Reģiona kods","province_label":"Novads","province_placeholder":"Novads","county_label":"Municipalitāte","county_placeholder":"Dzīvoklis, māja u.c.","phone_label":"Telefons","zip_code_label":"Pasta indekss","zip_code_placeholder":"Pasta indekss","postal_code_label":"Pasta indekss","postal_code_placeholder":"Pasta indekss","postcode_label":"Pasta indekss","postcode_placeholder":"Pasta indekss"},"delivery_options":{"free_total_label":"Bezmaksas","shipping_address":"Piegādes adrese"},"order_summary":{"subtotal_label":"Starpsumma","shipping_label":"Piegāde","total_label":"Kopā","partial_total_label":"Kopā","price_label":"Summa","quantity_label":"Daudzums","product_change_label":"Mainīt","vat_label_html":"Ieskaitot {{ amount }} nodokli."},"customer_account":{"save_my_information_label":"Saglabāt informāciju nākamai reizei","have_an_account_label":"Vai Jums jau ir konts?","sign_in_link_label":"Ielogoties"},"payment":{"credit_card_vaulting_sign_in_banner_button_label":"Ielogoties","title":"Maksājums","card_security_notice":"Droši un kriptēti norēķini."},"marketing":{"accept_marketing_checkbox_label":"Vēlos e-pastā saņemt izdevīgus piedāvājumus"},"shipping":{"title":"Piegāde","shipping_method_title":"Piegādes informācija","free_rate_label":"Bezmaksas"},"review":{"blocks":{"shipping_address_title":"Piegādāt uz","change_shipping_method_link_label":"Mainīt piegādes veidu","contact_method_title":"Kontakti","shipping_method_title":"Piegādes metode","payment_method_title":"Maksājums"}}},"sentence":{"two_words_connector":"un","last_word_connector":", un"},"filters":{"availability":{"label":"Pieejamība","value":{"in_stock":"Ir noliktavā","out_of_stock":"Nav noliktavā"}},"price":{"label":"Cena"}},"search":{"sorting":{"price_ascending":"Cena, zemākā uz augstāko","price_descending":"Cena, augstākā uz zemāko"}},"collections":{"sorting":{"manual":"Ieteiktie","best_selling":"Populārākie","az":"Alfabētiski, A - Z","za":"Alfabētiski, Z - A","date_ascending":"Datums, vecākie vispirms","date_descending":"Datums, jaunākie vispirms"}}},"pagefly":{"products":{"product":{"regular_price":"Regular price","sold_out":"Sold out","unavailable":"Unavailable","on_sale":"Sale","quantity":"Quantity","add_to_cart":"Add to cart","back_to_collection":"Back to {{ title }}","view_details":"View details"}},"article":{"tags":"Tags:","all_topics":"All topics","by_author":"by {{ author }}","posted_in":"Posted in","read_more":"Read more","back_to_blog":"Back to {{ title }}"},"comments":{"title":"Leave a comment","name":"Name","email":"Email","message":"Message","post":"Post comment","moderated":"Please note, comments must be approved before they are published","success_moderated":"Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.","success":"Your comment was posted successfully! Thank you!","comments_with_count":{"one":"{{ count }} comment","other":"{{ count }} comments"}},"password_page":{"login_form_message":"Enter store using password:","login_form_password_label":"Password","login_form_password_placeholder":"Your password","login_form_submit":"Enter","signup_form_email_label":"Email","signup_form_success":"We will send you an email right before we open!","password_link":"Enter using password"}}}
+{
+  "sections": {
+    "header": {
+      "announcement": "Paziņojums",
+      "menu": "Navigācija",
+      "cart_count": {
+        "one": "{{ count }} lieta",
+        "other": "{{ count }} lietas"
+      }
+    },
+    "cart": {
+      "title": "Jūsu grozs",
+      "caption": "Groza preces",
+      "remove_title": "Noņemt {{ title }}",
+      "subtotal": "Starpsumma",
+      "new_subtotal": "Jaunā starpsumma",
+      "note": "Pasūtījuma speciālās piezīmes",
+      "checkout": "Norēķini",
+      "empty": "Jūsu grozs ir tukšs",
+      "cart_error": "",
+      "cart_quantity_error_html": "",
+      "taxes_and_shipping_policy_at_checkout_html": "",
+      "taxes_included_but_shipping_at_checkout": "",
+      "taxes_included_and_shipping_policy_html": "",
+      "taxes_and_shipping_at_checkout": "",
+      "headings": {
+        "product": "Produkts",
+        "price": "Cena",
+        "total": "Kopā",
+        "quantity": "Daudzums"
+      },
+      "update": "Atjaunot",
+      "login": {
+        "title": "Jums ir konts?",
+        "paragraph_html": ""
+      }
+    },
+    "footer": {
+      "payment": "Maksājuma metodes"
+    },
+    "featured_blog": {
+      "view_all": "Skatīt visu",
+      "onboarding_title": "Bloga raksts",
+      "onboarding_content": ""
+    },
+    "featured_collection": {
+      "view_all": "Skatīt visu",
+      "view_all_label": ""
+    },
+    "collection_list": {
+      "view_all": "Skatīt visu"
+    },
+    "collection_template": {
+      "empty": "Produkts nav atrasts",
+      "title": "Kolekcija",
+      "use_fewer_filters_html": ""
+    },
+    "video": {
+      "load_video": ""
+    },
+    "slideshow": {
+      "load_slide": "",
+      "previous_slideshow": "",
+      "next_slideshow": "",
+      "pause_slideshow": "",
+      "play_slideshow": "",
+      "carousel": "",
+      "slide": ""
+    },
+    "page": {
+      "title": "Lapas virsraksts"
+    }
+  },
+  "general": {
+    "password_page": {
+      "login_form_heading": "",
+      "login_password_button": "",
+      "login_form_password_label": "Parole",
+      "login_form_password_placeholder": "Jūsu parole",
+      "login_form_error": "Nepareiza parole",
+      "login_form_submit": "Ienākt",
+      "admin_link_html": "",
+      "powered_by_shopify_html": " "
+    },
+    "social": {
+      "alt_text": {
+        "share_on_facebook": "",
+        "share_on_twitter": "",
+        "share_on_pinterest": ""
+      },
+      "links": {
+        "twitter": "",
+        "facebook": "",
+        "pinterest": "",
+        "instagram": "",
+        "tumblr": "",
+        "snapchat": "",
+        "youtube": "",
+        "vimeo": "",
+        "tiktok": ""
+      }
+    },
+    "continue_shopping": "Turpināt iepirkties",
+    "pagination": {
+      "label": "",
+      "page": "Lapa {{ number }}",
+      "next": "Nākamā lapa",
+      "previous": "Iepriekšējā lapa"
+    },
+    "search": {
+      "search": "Meklēt"
+    },
+    "cart": {
+      "view": "Apskatīt grozu ({{ count }})",
+      "item_added": "Pievienots grozam"
+    },
+    "share": {
+      "close": "",
+      "copy_to_clipboard": "",
+      "share_url": "Saite",
+      "success_message": ""
+    },
+    "slider": {
+      "of": "",
+      "next_slide": "",
+      "previous_slide": ""
+    }
+  },
+  "newsletter": {
+    "label": "E-pasts",
+    "success": "Paldies, ka pierakstījāties!",
+    "button_label": "Pierakstīties"
+  },
+  "accessibility": {
+    "skip_to_text": "",
+    "skip_to_product_info": "",
+    "close": "Aizvērt",
+    "unit_price_separator": "",
+    "vendor": "",
+    "error": "Kļūda",
+    "refresh_page": "",
+    "link_messages": {
+      "new_window": "",
+      "external": ""
+    },
+    "loading": "Ielādē...",
+    "total_reviews": "",
+    "star_reviews_info": "",
+    "collapsible_content_title": ""
+  },
+  "blogs": {
+    "article": {
+      "blog": "Blogs",
+      "read_more_title": "Lasīt vairāk: {{ title }}",
+      "comments": {
+        "one": "",
+        "other": ""
+      },
+      "moderated": "",
+      "comment_form_title": "Atstāt komentāru",
+      "name": "Vārds",
+      "email": "E-pasts",
+      "message": "Komentārs",
+      "post": "Publicēt",
+      "back_to_blog": "Atpakaļ uz blogu",
+      "share": "Dalīties ar rakstu",
+      "success": "",
+      "success_moderated": ""
+    }
+  },
+  "onboarding": {
+    "product_title": "",
+    "collection_title": ""
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "Pievienot grozam",
+      "description": "Apraksts",
+      "on_sale": "Atlaide!",
+      "product_variants": "Produkta variācijas",
+      "media": {
+        "gallery_viewer": "",
+        "load_image": "",
+        "load_model": "",
+        "load_video": "",
+        "image_available": "",
+        "open_media": "",
+        "play_model": "",
+        "play_video": ""
+      },
+      "quantity": {
+        "label": "Daudzums",
+        "input_label": "",
+        "increase": "",
+        "decrease": ""
+      },
+      "pickup_availability": {
+        "view_store_info": "",
+        "check_other_stores": "",
+        "pick_up_available": "",
+        "pick_up_available_at_html": "",
+        "pick_up_unavailable_at_html": "",
+        "unavailable": "",
+        "refresh": ""
+      },
+      "price": {
+        "from_price_html": "No {{ price }}",
+        "regular_price": "Cena",
+        "sale_price": "Izpārdošanas cena",
+        "unit_price": "Vienības cena"
+      },
+      "share": "",
+      "sold_out": "Izpārdots",
+      "unavailable": "Nav pieejams",
+      "vendor": "",
+      "video_exit_message": "",
+      "view_full_details": "",
+      "xr_button": "",
+      "xr_button_label": "",
+      "include_taxes": " ",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Piegāde<\/a> tiks aprēķināta norēķinu solī."
+    },
+    "modal": {
+      "label": ""
+    },
+    "facets": {
+      "apply": "",
+      "clear": "Notīrīt",
+      "clear_all": "Notīrīt visu",
+      "from": "No",
+      "filter_and_sort": "Filtrēt un kārtot",
+      "filter_by_label": "Filtrēt:",
+      "filter_button": "Filtrs",
+      "filters_selected": {
+        "one": "{{ count }} atlasīts",
+        "other": "{{ count }} atlasīts"
+      },
+      "max_price": "Augstākā cena ir {{ price }}",
+      "product_count": {
+        "one": "{{ product_count }} no {{ count }} produktiem",
+        "other": "{{ product_count }} no {{ count }} produktiem"
+      },
+      "product_count_simple": {
+        "one": "{{ count }} produkts",
+        "other": "{{ count }} produkti"
+      },
+      "reset": "Attiestatīt",
+      "sort_button": "Kārtot",
+      "sort_by_label": "Kārtot pēc:",
+      "to": "Līdz",
+      "clear_filter": "Noņemt filtru"
+    }
+  },
+  "templates": {
+    "404": {
+      "title": "Lapas nav atrasta",
+      "subtext": "404"
+    },
+    "search": {
+      "no_results": "",
+      "page": "Lapa",
+      "products": "Produkti",
+      "results_with_count": {
+        "one": "{{ count }} rezultāts",
+        "other": "{{ count }} rezultāti"
+      },
+      "results_with_count_and_term": {
+        "one": "",
+        "other": ""
+      },
+      "title": "Meklēšanas rezultāti",
+      "search_for": "Meklēt \"{{ terms }}\""
+    },
+    "cart": {
+      "cart": "Grozs"
+    },
+    "contact": {
+      "form": {
+        "name": "Vārds",
+        "email": "E-pasts",
+        "phone": "Telefona numurs",
+        "comment": "Komentārs",
+        "send": "Sūtīt",
+        "post_success": "",
+        "error_heading": ""
+      }
+    }
+  },
+  "localization": {
+    "country_label": "Valsts",
+    "language_label": "Valoda",
+    "update_language": "Atjaunot valodu",
+    "update_country": "Atjaunit Valsti\/Reģionu"
+  },
+  "customer": {
+    "account": {
+      "title": "Konts",
+      "details": "Konta detaļas",
+      "view_addresses": "Skatīt adresi",
+      "return": "Atgriezties uz konta detaļām"
+    },
+    "account_fallback": "Konts",
+    "activate_account": {
+      "title": "Aktivizēt kontu",
+      "subtext": "",
+      "password": "Parole",
+      "password_confirm": "Apstiprināt paroli",
+      "submit": "Aktivizēt kontu",
+      "cancel": ""
+    },
+    "addresses": {
+      "title": "Adrese",
+      "default": "",
+      "add_new": "Pievienot jaunu adresi",
+      "edit_address": "Labot adresi",
+      "first_name": "Vārds",
+      "last_name": "Uzvārds",
+      "company": "Organizācija",
+      "address1": "Adrese 1",
+      "address2": "Adrese 2",
+      "city": "Pilsēta",
+      "country": "Valsts\/reģions",
+      "province": "Novads",
+      "zip": "Pasts indekss",
+      "phone": "Telefons",
+      "set_default": "",
+      "add": "",
+      "update": "",
+      "cancel": "",
+      "edit": "",
+      "delete": "",
+      "delete_confirm": ""
+    },
+    "log_in": "Ienākt",
+    "log_out": "Iziet",
+    "login_page": {
+      "cancel": "",
+      "create_account": "",
+      "email": "",
+      "forgot_password": "",
+      "guest_continue": "",
+      "guest_title": "",
+      "password": "",
+      "title": "",
+      "sign_in": "",
+      "submit": ""
+    },
+    "order": {
+      "title": "Pasūtījums {{ name }}",
+      "date_html": "Veikts {{ date }}",
+      "cancelled_html": "Pasūtījums atcelts {{ date }}",
+      "cancelled_reason": "Iemesls: {{ reason }} ",
+      "billing_address": "Norēķinu adrese",
+      "payment_status": "Maksājma statuss",
+      "shipping_address": "Piegādes adrese",
+      "fulfillment_status": "",
+      "discount": "Atlaide",
+      "shipping": "Piegāde",
+      "tax": "Nodoklis",
+      "product": "Prece",
+      "sku": "SKU",
+      "price": "Cena",
+      "quantity": "Daudzums",
+      "total": "Kopā",
+      "fulfilled_at_html": "",
+      "track_shipment": "Izsekot sūtījumu",
+      "tracking_url": "Izsekošanas saite",
+      "tracking_company": "Piegādātājs",
+      "tracking_number": "Izsekošanas numurs",
+      "subtotal": "Starpsumma",
+      "total_duties": ""
+    },
+    "orders": {
+      "title": "Pasūtījumu vēsture",
+      "order_number": "Pasūtījums",
+      "order_number_link": "Pasūtījuma numurs {{ number }}",
+      "date": "Datums",
+      "payment_status": "Maksājuma statuss",
+      "fulfillment_status": "",
+      "total": "Kopā",
+      "none": ""
+    },
+    "recover_password": {
+      "title": "",
+      "subtext": "",
+      "success": ""
+    },
+    "register": {
+      "title": "Izveidot kontu",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "password": "",
+      "submit": ""
+    },
+    "reset_password": {
+      "title": "",
+      "subtext": "",
+      "password": "",
+      "password_confirm": "",
+      "submit": ""
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "",
+      "subtext": "",
+      "gift_card_code": "",
+      "shop_link": "",
+      "remaining_html": "",
+      "add_to_apple_wallet": "",
+      "qr_image_alt": "",
+      "copy_code": "",
+      "expired": "",
+      "copy_code_success": "",
+      "print_gift_card": ""
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "page_title": "UZ APMAKSU",
+        "continue_button_label": "Turpināt",
+        "pay_now_button_label": "APMAKSĀT",
+        "error_page_title": "Kļūda",
+        "complete_purchase_button_label": "Pabeigt pasūtījumu",
+        "authenticate_purchase_button_label": "Autentificēt maksājumu",
+        "edit_link_label": "Labot",
+        "all_rights_reserved": "Visas tiesības paturētas {{ shop_name }}",
+        "cart": "Grozs",
+        "close_modal_label": "Aizvērt",
+        "close_notice_label": "Aizvērt",
+        "expand_notice_label": "Skatīt vairāk",
+        "continue_to_shipping_method": "Turpināt uz piegādi",
+        "continue_to_payment_method": "Turināt uz maksājumu",
+        "continue_to_review": "Pārskatīt pasūtījumu",
+        "back_to_cart": "Atgriezties uz grozu",
+        "back_to_contact_information": "Atgriezties pie infotmācijas",
+        "back_to_shipping_method": "Atgriezties pie piegādes",
+        "back_to_payment_method": "Atgriezties pie maksājuma",
+        "choose_shipping_method": "Izvēlēties piegādes metodi",
+        "choose_payment_method": "Izvēlēties maksājuma metodi",
+        "choose_billing_address": "Izvēlieties norēķinu adresi",
+        "print_policies_link_label": "Drukāt",
+        "contact_us_html": "Sazināties, lai saņemtu vairāk informācijas",
+        "autocomplete_title": "Ieteikumi"
+      },
+      "stock": {
+        "continue_shopping_button_label": "Turpināt",
+        "price_column_header": "Cena"
+      },
+      "processing": {
+        "continue_to_payment_gateway_button_label": "Turpināt uz maksājumu"
+      },
+      "thank_you": {
+        "return_to_store_link_label": "Turpināt iepirkties",
+        "login": "Ielogoties",
+        "shipping_method_title": "Piegādes veids"
+      },
+      "contact": {
+        "title": "Informācija",
+        "address_title": "Adrese",
+        "shipping_address_title": "Piegādes adrese",
+        "delivery_option_title": "Piegādes metode",
+        "contact_method_title": "Kontaktinformācija",
+        "email_label": "E-pasts",
+        "email_placeholder": "E-pasts",
+        "email_or_phone_label": "E-pasts vai telefona numurs",
+        "email_or_phone_placeholder": "E-pasts vai telefona numurs",
+        "stored_addresses_label": "Saglabātās adreses",
+        "new_address_label": "Izmantot jaunu adresi",
+        "first_name_label": "Vārds",
+        "optional_first_name_label": "Vārds (neobligāti)",
+        "last_name_label": "Uzvārds",
+        "company_label": "Organizācija",
+        "optional_company_label": "Organizācija (neobligāts)",
+        "address1_label": "Adrese",
+        "address2_label": "Dzīvoklis, māja u.c.",
+        "optional_address2_label": "Dzīvoklis, māja u.c. (neobligāts)",
+        "city_label": "Pilsēta",
+        "country_label": "Valsts",
+        "country_code": "Valsts\/Reģiona kods",
+        "province_label": "Novads",
+        "province_placeholder": "Novads",
+        "county_label": "Municipalitāte",
+        "county_placeholder": "Dzīvoklis, māja u.c.",
+        "phone_label": "Telefons",
+        "zip_code_label": "Pasta indekss",
+        "zip_code_placeholder": "Pasta indekss",
+        "postal_code_label": "Pasta indekss",
+        "postal_code_placeholder": "Pasta indekss",
+        "postcode_label": "Pasta indekss",
+        "postcode_placeholder": "Pasta indekss"
+      },
+      "delivery_options": {
+        "free_total_label": "Bezmaksas",
+        "shipping_address": "Piegādes adrese"
+      },
+      "order_summary": {
+        "subtotal_label": "Starpsumma",
+        "shipping_label": "Piegāde",
+        "total_label": "Kopā",
+        "partial_total_label": "Kopā",
+        "price_label": "Summa",
+        "quantity_label": "Daudzums",
+        "product_change_label": "Mainīt",
+        "vat_label_html": "Ieskaitot {{ amount }} nodokli."
+      },
+      "customer_account": {
+        "save_my_information_label": "Saglabāt informāciju nākamai reizei",
+        "have_an_account_label": "Vai Jums jau ir konts?",
+        "sign_in_link_label": "Ielogoties"
+      },
+      "payment": {
+        "credit_card_vaulting_sign_in_banner_button_label": "Ielogoties",
+        "title": "Maksājums",
+        "card_security_notice": "Droši un kriptēti norēķini."
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Vēlos e-pastā saņemt izdevīgus piedāvājumus"
+      },
+      "shipping": {
+        "title": "Piegāde",
+        "shipping_method_title": "Piegādes informācija",
+        "free_rate_label": "Bezmaksas"
+      },
+      "review": {
+        "blocks": {
+          "shipping_address_title": "Piegādāt uz",
+          "change_shipping_method_link_label": "Mainīt piegādes veidu",
+          "contact_method_title": "Kontakti",
+          "shipping_method_title": "Piegādes metode",
+          "payment_method_title": "Maksājums"
+        }
+      }
+    },
+    "sentence": {
+      "two_words_connector": "un",
+      "last_word_connector": ", un"
+    },
+    "filters": {
+      "availability": {
+        "value": {
+          "in_stock": "Ir noliktavā",
+          "out_of_stock": "Nav noliktavā"
+        }
+      }
+    },
+    "search": {
+      "sorting": {
+        "price_ascending": "Cena, zemākā uz augstāko",
+        "price_descending": "Cena, augstākā uz zemāko"
+      }
+    },
+    "collections": {
+      "sorting": {
+        "manual": "Ieteiktie",
+        "best_selling": "Populārākie",
+        "az": "Alfabētiski, A - Z",
+        "za": "Alfabētiski, Z - A",
+        "date_ascending": "Datums, vecākie vispirms",
+        "date_descending": "Datums, jaunākie vispirms"
+      }
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
+  }
+}
